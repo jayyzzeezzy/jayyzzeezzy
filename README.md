@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm James Zhou
 
-<!--
-**jayyzzeezzy/jayyzzeezzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:jam9es@gmail.com)
 
-Here are some ideas to get you started:
+## 💻 Software Developer | 💪 Bodybuilder | 🏀 Retired Basketball Player
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a fullstack developer with a unique background in criminal justice and athletics. My journey from law enforcement to web development has equipped me with exceptional problem-solving skills and attention to detail that I now apply to creating efficient, user-friendly web applications.
+
+### 🛠️ Tech Stack
+
+**Frontend:**
+- JavaScript
+- React
+- HTML/CSS
+
+**Backend:**
+- Node.js
+- Express
+- SQL (PostgreSQL)
+
+**Tools & Others:**
+- Git/GitHub
+- npm
+- Vite
+
