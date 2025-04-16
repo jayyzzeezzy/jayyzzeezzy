@@ -1,6 +1,6 @@
 # 👋 Hi, I'm James Zhou
 
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:jam9es@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-green)](mailto:jam9es@gmail.com)
 
 ## 💻 Software Developer | 💪 Bodybuilder | 🏀 Retired Basketball Player
 
