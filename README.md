@@ -26,4 +26,4 @@ I'm a software engineer with a background in business and customer service. My p
 ### 🔍 What I'm Up To
 - 🛠️ Recently created my [personal website](https://jameszhou.netlify.app/)
 - 👨‍💻 Looking for junior developer opportunities in the San Francisco Bay Area or remote
-- 🌱 Continue the lifelong learning of the modern web technologies
+- 🌱 Continue the lifelong learning in software development
