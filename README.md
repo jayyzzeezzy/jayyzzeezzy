@@ -4,7 +4,7 @@
 
 ## 💻 Full-Stack Developer | 💪 Casual Bodybuilder | 🏀 Retired Basketball Player
 
-I'm a self-taught full-stack developer with 2–3 years of hands-on experience building and deploying web applications. My previous job experiences have shaped me to be a developer with excellent problem-solving and communication skills. I would like to contribute to meaningful projects while continuing to grow as a developer. 
+I'm a self-taught full-stack developer with 2–3 years of hands-on experience building and deploying web applications. I hold a CS50 certificate from Harvard and have completed The Odin Project's Full-Stack JavaScript curriculum. I'm currently seeking software engineering roles in the Bay Area or remote.
 
 ### ⚙ Tech Stack
 
