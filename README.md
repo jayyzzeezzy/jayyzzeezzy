@@ -8,7 +8,7 @@ I'm a self-taught full-stack developer with 3 years of hands-on experience build
 
 ### 🔍 What I'm Up To
 
-- 👨‍💻 Lauched an [AI Food-Photo Macro Tracker](https://www.macrotrack.org/)
+- 🚀 Lauched my newest project: an [AI Food-Photo Macro Tracker](https://www.macrotrack.org/)
 - 🌱 Practicing data structures and algorithms in Python
 - 🛠️ Attending developer events in the SF Bay Area
 
